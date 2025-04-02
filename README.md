@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Java-17%2B-007396?logo=java)  
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)  
-![JDBC](https://img.shields.io/badge/JDBC-API-007396?logo=java)  
+![JDBC](https://img.shields.io/badge/JDBC-007396?logo=java)  
 
 A **Java-based** ticket booking system for cinemas, featuring **secure authentication, role-based access, real-time movie scheduling, and booking management** using **JDBC & MySQL**.  
 
